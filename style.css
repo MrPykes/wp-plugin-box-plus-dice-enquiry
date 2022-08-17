@@ -1,0 +1,33 @@
+.box-plus-dice-api-settings{
+    width: 80%;
+}
+
+.box-plus-dice-api-key, .box-plus-dice-domain-name{
+    margin: 5px 0;
+}
+
+.box-plus-dice-api-settings-form .btn-submit{
+    margin-top: 7px;
+    font-size: 15px;
+}
+
+.box-plus-dice-form-insert{
+    width: 40%;
+}
+.box-plus-dice-form-table{
+    width: 60%;
+    padding: 0 20px;
+}
+
+.box-plus-dice-form-name #box-plus-dice-form-name{
+    width: 100%;
+    margin: 10px 0;
+}
+
+.box-plus-dice-forms{
+    display: flex;
+}
+
+.box-plus-dice-form-submit{
+    font-size: 15px;
+}
